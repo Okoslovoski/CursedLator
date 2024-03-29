@@ -1,3 +1,10 @@
+# Cursed Lator
+
+## Project Description
+Este projeto tem como ideia treinar as habilidades de vue e JS utilizando meios cômicos para criar uma calculadora
+o projeto conta também com uma adição de um módulo de regra de 3.
+
+
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
